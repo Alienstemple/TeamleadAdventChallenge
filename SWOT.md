@@ -1,8 +1,6 @@
 ## SWOT
 
-|----------|--------|
-| Сильные стороны | Слабые стороны |
-| Возможности | Угрозы |
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fkaiten.ru%2Fblog%2Fswot-analiz%2F&psig=AOvVaw19OAo1El9BQsU16YExFYjW&ust=1761460717527000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi-8NTevpADFQAAAAAdAAAAABAE
 
 | Категория | Фактор | Описание | Действия |
 |----------|--------|----------|----------|
